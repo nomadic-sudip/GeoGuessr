@@ -1,0 +1,12 @@
+.centered-button {
+    position: absolute;
+    top: calc(50% + 40px); /* Adjust this value as needed */
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  .button-group {
+    position: absolute;
+    top: calc(50% + 100px); /* Adjust this value as needed */
+    left: 50%;
+    transform: translateX(-50%);
+  }
